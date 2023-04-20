@@ -2,7 +2,7 @@
   "name": "micro-state-machine",
   "version": "0.0.0",
   "description": "A very tiny state machine implementation",
-  "main": "index.js",
+  "main": "index.mjs",
   "type": "module",
   "scripts": {
     "test": "node --test"
