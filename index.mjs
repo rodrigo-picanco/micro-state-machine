@@ -1,4 +1,4 @@
-export class StateMachine {
+export class MicroStateMachine {
   constructor(schema) {
     this.schema = schema;
     this.status = schema.initial;
